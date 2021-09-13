@@ -22,7 +22,7 @@ title: AI Graduate Student Organization
 email: ai.gsa@oregonstate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Connecting graduate students in the School of EECS interested in Artificial Intelligence
-baseurl: "/home"
+baseurl: ""
 domain: "ai.gsa.club"
 url: "https://aigsa.club"
 twitter_username: jekyllrb
