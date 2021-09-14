@@ -1,0 +1,51 @@
+---
+---
+#project_title #project_tagline {
+    font-family: Georgia, 'Open Sans';
+    text-shadow: #000000 0px 0px 110px;
+}
+@import "{{ site.theme }}";
+#header_wrap {
+    color: #FFFFFF;
+    background: #D73F09;
+}
+
+#project_title {
+    font-family: Georgia, 'Open Sans';
+    text-shadow: #000000 0px 0px 1px;
+}
+
+#project_tagline {
+    font-family: Georgia, 'Open Sans';
+    text-shadow: none;
+}
+
+#main_content_wrap {
+    color: #000000;
+    font-family: 'Open Sans';
+    background: #FFFFFF;
+    border-top: none;
+    border-bottom: none;
+}
+
+#main_content_wrap ul {
+    list-style: none;
+}
+
+#main_content_wrap a {
+    color: #006A8E;
+    font-family: 'Open Sans';
+}
+
+#main_content_wrap h2 {
+    color: #000000;
+    font-family: Georgia;
+}
+
+#main_content_wrap h3 {
+    margin-bottom: 0px;
+}
+
+body {
+    background:#000000;
+}
