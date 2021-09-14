@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: OSU AI Graduate Student Organization
+title: AIGSA
 description: >- # this means to ignore newlines until "baseurl:"
   Connecting graduate students in artificial intelligence
 future: true

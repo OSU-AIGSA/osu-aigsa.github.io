@@ -4,7 +4,6 @@ layout: default
 
 <!-- if statement forces this to be evaluated live -->
 {% if true %}
-    <h3> {{ base.url | prepend: site.url }}/assets/js/event-hider.js </h3>
     <script src="{{ base.url | prepend: site.url }}/assets/js/event-hider.js"></script>
 {% endif %}
 
@@ -20,7 +19,9 @@ layout: default
         {%- for event in events %}
         <li date-future="{{ event.date }}">
             <h3><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h3>
-            <span>{{ event.date | date: "%b %-d, %Y" }}</span>
+            {{ event.date | date: "%b %-d, %Y" }}, {{ event.time }}
+            </br>
+            {{ event.location }}
         </li>
         {%- endfor -%}
     </ul>
@@ -31,7 +32,9 @@ layout: default
         {%- for event in events %}
         <li date-past="{{ event.date }}">
             <h3><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h3>
-            <span>{{ event.date | date: "%b %-d, %Y" }}</span>
+            {{ event.date | date: "%b %-d, %Y" }}, {{ event.time }}
+            </br>
+            {{ event.location }}
         </li>
         {%- endfor -%}
     </ul>
