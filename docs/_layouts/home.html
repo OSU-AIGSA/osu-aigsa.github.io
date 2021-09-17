@@ -12,9 +12,22 @@ layout: default
 <!-- events -->
 <h1>Event Schedule</h1>
 <div id="event-display" style="display:none;">
+
+    
     {% assign events = site.posts %}
+    <ul>
+        {%- for event in events %}
+        <li>
+            <h3><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h3>
+            {{ event.date | date: "%b %-d, %Y" }}, {{ event.time }}
+            </br>
+            {{ event.location }}
+        </li>
+        {%- endfor -%}
+    </ul>
 
     <!-- Display up coming events -->
+    <!-- Tempoarily disable dynamic events
     <h2>Upcoming</h2>
     <ul>
         {%- for event in events %}
@@ -26,8 +39,10 @@ layout: default
         </li>
         {%- endfor -%}
     </ul>
+    -->
 
-    <!-- Display past events-->
+    <!-- Display past events -->
+    <!-- Tempoarily disable dynamic events
     <h2>Past</h2>
     <ul>
         {%- for event in events %}
@@ -39,4 +54,5 @@ layout: default
         </li>
         {%- endfor -%}
     </ul>
+    -->
 </div>
