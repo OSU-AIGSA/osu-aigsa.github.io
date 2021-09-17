@@ -10,11 +10,12 @@ layout: default
 {{ content }}
 
 <!-- events -->
+<h1>Event Schedule</h1>
 <div id="event-display" style="display:none;">
     {% assign events = site.posts %}
 
     <!-- Display up coming events -->
-    <h2> Scheduled Events</h2>
+    <h2>Upcoming</h2>
     <ul>
         {%- for event in events %}
         <li date-future="{{ event.date }}">
@@ -27,7 +28,7 @@ layout: default
     </ul>
 
     <!-- Display past events-->
-    <h2>Past Events</h2>
+    <h2>Past</h2>
     <ul>
         {%- for event in events %}
         <li date-past="{{ event.date }}">
