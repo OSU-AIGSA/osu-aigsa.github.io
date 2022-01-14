@@ -8,7 +8,7 @@ Since it's that time of year to apply for Summer internships, AIGSA will be host
 
 Please RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSd0iMDMWNw5C6yUOGnUsdSKS3ZApLBP8a7RGqjhzkKMavCroQ/viewform?usp=sf_link). Accommodation requests may be submitted through the RSVP link, or to [ai.gsa@oregonstate.edu](mailto:ai.gsa@oregonstate.edu), by **Tuesday, January 18th.**
 
-If you plan on participating but are not part of the AIGSA Discord server, you can join [here](https://discord.gg/wGrtzFM8sJ). Note that the Discord server is limited to AIGSA members, so make sure to also join the club [here](https://apps.ideal-logic.com/osusee?key=F3T9-25VWY_5878-CZ4R_f7b06f23)) if you haven't already.
+If you plan on participating but are not part of the AIGSA Discord server, you can join [here](https://discord.gg/wGrtzFM8sJ). Note that the Discord server is limited to AIGSA members, so make sure to also join the club [here](https://apps.ideal-logic.com/osusee?key=F3T9-25VWY_5878-CZ4R_f7b06f23) if you haven't already.
 
 If you don't yet have a resume, then the materials under "Professional Materials" [here](https://career.oregonstate.edu/careered/graduate-students) may be a helpful place to start.
 
