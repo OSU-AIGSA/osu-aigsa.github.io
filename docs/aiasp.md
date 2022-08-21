@@ -7,7 +7,7 @@ permalink: /aiasp/
 # AI Application Support Program
 
 ## For Applicants
-We're excited to announce the Artificial Intelligence Application Support Program (AIASP) for folks historically underrepresented in Artificial Intelligence applying to AI graduate degree programs at Oregon State University!
+We're excited to announce the Artificial Intelligence Application Support Program (AIASP) for folks historically underrepresented in the field applying to AI graduate degree programs at Oregon State University!
 
 AIASP is divided into two phases, both of which are primarily supported by current graduate student volunteers in the AI program at OSU:
 
@@ -15,9 +15,14 @@ AIASP is divided into two phases, both of which are primarily supported by curre
 
 **Phase 2** - Application Feedback. In the second phase, applicants will receive early feedback on their Statement of Purpose and CV. They may share any information about their identity and research interests that they'd like considered when matching their application materials with a mentor for review.
 
-You can register to participate with [this form](https://forms.gle/dc425Z944hLm4brb7)! We're looking forward to all the new connections we'll get to make along the way in this exciting first year of AIASP 🎉🎉
+You can register to participate with [this form](https://docs.google.com/forms/d/e/1FAIpQLSfkcxxBeV57L0EET9QdU07j-DeIuR_hMDtQiWc-gR8QEOXIIw/viewform?usp=sf_link)! We're looking forward to all the new connections we'll get to make along the way in this exciting first year of AIASP 🎉🎉
 
-Participation in AIASP is completely separate from the official graduate application process and therefore does not guarantee admission to the program. Your mentor will not review your official application, and participation will not be disclosed to the admissions committee or faculty. Information will be aggregated and anonymized to evaluate the impact of this program, but individual responses will be deleted at the end of this application cycle.
+Participation in AIASP is completely separate from the official graduate application process and therefore does not guarantee admission to the program. Information will be aggregated and anonymized to evaluate the impact of this program, but individual responses will be deleted at the end of this application cycle.
+
+Most AIASP mentors are graduate students. If an applicant is matched with a graduate student mentor, then the mentor will not review the applicant's official application, and the applicant's participation in AIASP will not be disclosed to the admissions committee or any faculty members. The applicant can guarantee a match with a graduate student mentor by opting out of matching with a faculty mentor.
+
+Alternatively, an applicant may opt for the possibility of matching with a faculty mentor. In this case, if the applicant is matched with a faculty mentor, that faculty mentor will be aware of the applicant's participation in AIASP and may end up reviewing the applicant's official application. Faculty mentors will be instructed not to disclose participation to other faculty or members of the admissions committee.
+
 
 ## For Graduate Student and Faculty Mentors
 This is the first time AIGSA is running a mentorship program, so we urge you to sign up to mentor an applicant in navigating the application process!
@@ -32,6 +37,6 @@ In Phase 1, you will have a 30-minute chat with an applicant about the following
 
 In Phase 2, you will provide feedback on the applicant’s Statement of Purpose and CV.
 
-To sign up, please fill out [this form](https://docs.google.com/forms/d/1IAQ3a4EUHubK1JR_YjjyIt_1SgqcAuF6lw887QIhANg/edit). 
+To sign up, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdRrDeYJ2dsrxyL2lUTyFy7DcN4E85tt2GorK9CkGUv3QBWPQ/viewform?usp=sf_link). 
 
 We highly appreciate suggestions regarding the mentorship program. Please feel free to contact the lead AIASP coordinator Eric Slyman (slymane[at]oregonstate[dot]edu) with your comments or queries regarding the program.
