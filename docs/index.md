@@ -2,8 +2,10 @@
 layout: home
 ---
 
-# About AIGSA[<img src="assets/images/twitter_logo.png" width="32">](https://twitter.com/osu_aigsa)[<img src="assets/images/instagram_logo.png" width="32">](https://www.instagram.com/osu_aigsa/)[<img src="assets/images/linkedin_logo.png" width="32" >](https://www.linkedin.com/company/osu-aigsa)
+# About AIGSA
 The goal of the Oregon State University **A**rtificial **I**ntelligence **G**raduate **S**tudent **A**ssociation (AIGSA) is to connect current, former, and affiliated AI graduate students of the School of Electrical Engineering and Computer Science, and any other graduate students working in the space of Artificial Intelligence. 
+
+[<img src="assets/images/twitter_logo.png" width="32">](https://twitter.com/osu_aigsa)&nbsp;&nbsp;&nbsp;[<img src="assets/images/instagram_logo.png" width="32">](https://www.instagram.com/osu_aigsa/)&nbsp;&nbsp;&nbsp;[<img src="assets/images/linkedin_logo.png" width="32" >](https://www.linkedin.com/company/osu-aigsa)
 
 # How do I join?
 1. Follow [this link](https://apps.ideal-logic.com/osusee?key=F3T9-25VWY_5878-CZ4R_f7b06f23) to ideal-logic and login with your OSU credentials
