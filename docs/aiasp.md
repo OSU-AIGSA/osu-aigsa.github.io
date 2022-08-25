@@ -17,14 +17,9 @@ AIASP is divided into two phases, both of which are primarily supported by curre
 
 You can register to participate with [this form](https://docs.google.com/forms/d/e/1FAIpQLSfkcxxBeV57L0EET9QdU07j-DeIuR_hMDtQiWc-gR8QEOXIIw/viewform?usp=sf_link)! We're looking forward to all the new connections we'll get to make along the way in this exciting first year of AIASP 🎉🎉
 
-Participation in AIASP is completely separate from the official graduate application process and therefore does not guarantee admission to the program. Information will be aggregated and anonymized to evaluate the impact of this program, but individual responses will be deleted at the end of this application cycle.
+Participation in AIASP is completely separate from the official graduate application process and therefore does not guarantee admission to the program. Information will be aggregated and anonymized to evaluate the impact of this program, but individual responses will be deleted at the end of this application cycle. Mentors will not review the applicant's official application, and the applicant's participation in AIASP will not be disclosed to the admissions committee or any faculty members.
 
-Most AIASP mentors are graduate students. If an applicant is matched with a graduate student mentor, then the mentor will not review the applicant's official application, and the applicant's participation in AIASP will not be disclosed to the admissions committee or any faculty members. The applicant can guarantee a match with a graduate student mentor by opting out of matching with a faculty mentor.
-
-Alternatively, an applicant may opt for the possibility of matching with a faculty mentor. In this case, if the applicant is matched with a faculty mentor, that faculty mentor will be aware of the applicant's participation in AIASP and may end up reviewing the applicant's official application. Faculty mentors will be instructed not to disclose participation to other faculty or members of the admissions committee.
-
-
-## For Graduate Student and Faculty Mentors
+## For Mentors
 This is the first time AIGSA is running a mentorship program, so we urge you to sign up to mentor an applicant in navigating the application process!
 
 You can choose to either participate in Phase 1 and/or Phase 2 (details above) depending on the time you are willing to commit. About 2-3 hours per student if participating in both phases.
