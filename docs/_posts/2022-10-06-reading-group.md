@@ -2,7 +2,7 @@
 layout: post
 title: "First Meeting of AGI Safety Reading Group"
 location: "KEC 2057"
-time: "1-2pm"
+time: "1 PM - 2 PM"
 ---
 
 The [Fall 2022 AIGSA reading group](https:///www.aigsa.club/agisf) is about AGI (Artificial General Intelligence) Safety Fundamentals. Join us for the first meeting! Lunch will be provided.
