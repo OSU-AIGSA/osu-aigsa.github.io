@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "AGI Safety Fundamentals Reading Group, Fall 2022"
+title: "Fall 2022 Reading Group"
 permalink: /agisf/
 ---
 
-# AGI Safety Fundamentals Reading Group, Fall 2022
+# Fall 2022 Reading Group
 
 **The topic:** AGI (Artificial General Intelligence) Safety Fundamentals.
 
