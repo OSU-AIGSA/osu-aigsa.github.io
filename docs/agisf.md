@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AGI Safety Fundamentals Reading Group, Fall 2022"
+permalink: /agisf/
+---
+
 # AGI Safety Fundamentals Reading Group, Fall 2022
 
 **The topic:** AGI (Artificial General Intelligence) Safety Fundamentals.
