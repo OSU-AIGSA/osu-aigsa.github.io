@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Meeting of AGI Safety Reading Group"
+title: "First Meeting of AGI Safety Fundamentals Reading Group"
 location: "KEC 2057"
 time: "1 PM - 2 PM"
 ---
