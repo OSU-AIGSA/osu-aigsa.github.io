@@ -18,7 +18,7 @@ This year, we're launching the Artificial Intelligence Application Support Progr
 
 For additional information and questions, please contact us at [ai.gsa@oregonstate.edu](mailto:ai.gsa@oregonstate.edu).
 
-# Fall 2022 Reading Group: AGI (Artificial General Intelligence) Safety Fundamentals
+# Fall 2022 Reading Group
 
-As powerful AI systems take on increasingly impactful tasks, we need to take great care to prevent catastrophic unintended consequences. We're talking about it. More info [here.](https://www.aigsa.club/agisf)
+This term's reading group topic is **AGI (Artificial General Intelligence) Safety Fundamentals**. As powerful AI systems take on increasingly impactful tasks, we need to take great care to prevent catastrophic unintended consequences. We're talking about it. More info [here.](https://www.aigsa.club/agisf)
 
