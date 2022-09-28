@@ -14,7 +14,7 @@ permalink: /agisf/
 
 **The time commitment:** Meet five times total this term, 1-2pm on alternating Thursdays. To prepare for each meeting, spend ~1 hour on a few short readings. 
 
-**The logistical details:** See the Event Schedule on https://www.aigsa.club/.
+**The logistical details:** See the Event Schedule on [aigsa.club](https://www.aigsa.club/).
 
 **Communication:** Join the conversation on the AIGSA [Discord](https://discord.gg/wGrtzFM8sJ).
 
