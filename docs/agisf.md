@@ -12,7 +12,7 @@ permalink: /agisf/
 
 **Why else you might enjoy participating:** Chipotle and/or Cafe Yumm lunches provided.
 
-**The time commitment:** Meet five times total this term, 1-2pm on alternating Thursdays. To prepare for each meeting, spend up to 1.5 hours on a few short readings. 
+**The time commitment:** Meet five times total this term, 1-2pm on alternating Thursdays. To prepare for each meeting, spend ~1 hour on a few short readings. 
 
 **The logistical details:** See the Event Schedule on https://www.aigsa.club/.
 
