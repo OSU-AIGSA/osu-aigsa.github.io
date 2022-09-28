@@ -1,10 +1,14 @@
 # AGI Safety Fundamentals Reading Group, Fall 2022
 
-*The topic:* AGI (Artificial General Intelligence) Safety Fundamentals.
-*Why it matters:* As powerful AI systems take on increasingly impactful tasks, we need to take great care to prevent catastrophic unintended consequences. 
-*Why else you might want to participate:* Chipotle and/or Cafe Yumm lunches provided.
-*The time commitment:* Meet five times total this term, 1-2pm on alternating Thursdays. To prepare for each meeting, spend up to 1.5 hours on a few short readings. 
-*The logistical details:* See the Event Schedule on https://www.aigsa.club/.
+**The topic:** AGI (Artificial General Intelligence) Safety Fundamentals.
+
+**Why it matters:** As powerful AI systems take on increasingly impactful tasks, we need to take great care to prevent catastrophic unintended consequences. 
+
+**Why else you might enjoy participating:** Chipotle and/or Cafe Yumm lunches provided.
+
+**The time commitment:** Meet five times total this term, 1-2pm on alternating Thursdays. To prepare for each meeting, spend up to 1.5 hours on a few short readings. 
+
+**The logistical details:** See the Event Schedule on https://www.aigsa.club/.
 
 ## Curriculum
 
