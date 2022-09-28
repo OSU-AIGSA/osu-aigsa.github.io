@@ -10,6 +10,8 @@
 
 **The logistical details:** See the Event Schedule on https://www.aigsa.club/.
 
+**Communication:** Join the conversation on the AIGSA [Discord](https://discord.gg/wGrtzFM8sJ).
+
 ## Curriculum
 
 Kindly condensed for us by Richard Ngo from [https://www.agisafetyfundamentals.com/ai-alignment-curriculum](https://www.agisafetyfundamentals.com/ai-alignment-curriculum)
