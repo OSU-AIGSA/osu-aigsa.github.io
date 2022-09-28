@@ -17,3 +17,8 @@ The goal of the Oregon State University **A**rtificial **I**ntelligence **G**rad
 This year, we're launching the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here.](https://www.aigsa.club/aiasp)
 
 For additional information and questions, please contact us at [ai.gsa@oregonstate.edu](mailto:ai.gsa@oregonstate.edu).
+
+# Fall 2022 Reading Group: AGI (Artificial General Intelligence) Safety Fundamentals
+
+As powerful AI systems take on increasingly impactful tasks, we need to take great care to prevent catastrophic unintended consequences. And we're talking about it. More info [here.](https://www.aigsa.club/agisf)
+
