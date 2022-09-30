@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Meeting of Reading Group"
-location: "KEC 2057 (may move if we need more space for everyone)"
+location: "to be announced"
 time: "1 PM - 2 PM"
 ---
 
