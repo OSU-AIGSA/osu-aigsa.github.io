@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Meeting of Reading Group"
-location: "to be announced here"
+location: "Location will be announced here soon"
 time: "1 PM - 2 PM"
 ---
 
