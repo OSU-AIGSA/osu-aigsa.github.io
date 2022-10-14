@@ -5,7 +5,7 @@ location: "KEC 2057"
 time: "1 PM - 2 PM"
 ---
 
-The [Fall 2022 AIGSA reading group](https:///www.aigsa.club/agisf) is about AGI (Artificial General Intelligence) Safety Fundamentals. Join us for the second meeting! Lunch will be provided.
+The [Fall 2022 AIGSA reading group](https:///www.aigsa.club/agisf) is about AGI (Artificial General Intelligence) Safety Fundamentals. Join us for the second meeting, **even if you missed the first meeting**! Lunch will be provided.
 
 **Please RSVP** [here](https://forms.gle/kyg8GK6DwvuoQ79Q9).
 
