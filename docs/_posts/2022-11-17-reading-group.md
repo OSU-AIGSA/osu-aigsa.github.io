@@ -17,7 +17,7 @@ This week's topic is **Learning from humans**. Here's an introduction from Richa
 
 To prepare, **please spend ~1 hour reading these short pieces:**
 
-1.  Read both of the following blog posts, plus the full paper for whichever you found most interesting (if you’re undecided, default to the critiques paper):
+1.  Read both of the following blog posts. If you like, also read the full paper for whichever you found most interesting (if you’re undecided, default to the critiques paper):
 	1.  [Deep RL from human preferences: blog post (Christiano et al., 2017)](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/) (10 mins)  
 	2.  [AI-written critiques help humans notice flaws: blog post (Saunders et al., 2022)](https://openai.com/blog/critiques/) (10 mins)
 2.  [The easy goal inference problem is still hard (Christiano, 2015)](https://www.alignmentforum.org/s/4dHMdK5TLN6xcqtyc/p/h9DesGT3WT9u2k7Hr) (10 mins)
