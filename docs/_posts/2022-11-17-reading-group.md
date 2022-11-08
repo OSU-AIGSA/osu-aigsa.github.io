@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fourth Meeting of Reading Group"
-location: TBD
+location: KEC 2057
 time: "1 PM - 2 PM"
 ---
 
