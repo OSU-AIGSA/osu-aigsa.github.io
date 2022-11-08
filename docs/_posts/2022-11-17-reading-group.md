@@ -11,7 +11,7 @@ This week's topic is **Learning from humans**. Here's an introduction from Richa
 
 > This week, we look at techniques for training AIs on human data (falling under “learn from teacher” in Christiano’s AI alignment landscape from last week). Next week, we’ll look at some ways to make these techniques more powerful and scalable... 
 
-> Reinforcement learning from human feedback (RLHF), involves reinforcement learning agents receiving rewards determined by humans evaluations of their behavior (often via training a reward model from those human evaluations); this technique is used by Christiano et al. (2017)... In the long term we’d like models to assist us via formats more sophisticated than just modeling rewards. Saunders et al. (2022) take a step towards this by training AIs to generate natural-language feedback.
+> Reinforcement learning from human feedback (RLHF) involves reinforcement learning agents receiving rewards determined by humans evaluations of their behavior (often via training a reward model from those human evaluations); this technique is used by Christiano et al. (2017)... In the long term we’d like models to assist us via formats more sophisticated than just modeling rewards. Saunders et al. (2022) take a step towards this by training AIs to generate natural-language feedback.
 
 > Finally, Christiano (2015) argues that inferring human values is likely a hard enough problem that the techniques discussed so far won’t be sufficient to reliably solve it - a possibility which motivates the extensions to these techniques discussed in subsequent weeks.
 
