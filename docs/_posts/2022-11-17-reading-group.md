@@ -5,9 +5,9 @@ location: KEC 2057
 time: "1 PM - 2 PM"
 ---
 
-The [Fall 2022 AIGSA reading group](https:///www.aigsa.club/agisf) is about AGI (Artificial General Intelligence) Safety Fundamentals. Join us for the third meeting, **even if you missed earlier meetings**! Lunch will be provided.
+The [Fall 2022 AIGSA reading group](https:///www.aigsa.club/agisf) is about AGI (Artificial General Intelligence) Safety Fundamentals. Join us for the fourth meeting, **even if you missed earlier meetings**! Lunch will be provided.
 
-This week's topic is **Learning from humans**. Here's an introduction from Richard Ngo, the developer of the curriculum:
+This week's topics are **Learning from humans** and **factored cognition**. Here's an introduction from Richard Ngo, the developer of the curriculum:
 
 > This week, we look at techniques for training AIs on human data (falling under “learn from teacher” in Christiano’s AI alignment landscape from last week). Next week, we’ll look at some ways to make these techniques more powerful and scalable... 
 
