@@ -17,7 +17,7 @@ This week's topics are **decomposing tasks** and **interpretability**. Here's an
 
 > Olah et al. (2020) explore how neural circuits build up representations of high-level features out of lower-level features...
 
-To prepare, **please spend ~1.5 hours reading these pieces:**
+To prepare, **please spend ~1 hour reading these pieces:**
 
 1.  [Summarizing books with human feedback: blog post (Wu et al., 2021)](https://openai.com/blog/summarizing-books/) (5 mins)
 2.  [AI safety via debate (Irving et al., 2018)](https://arxiv.org/abs/1805.00899) (ending after section 3) (35 mins)
