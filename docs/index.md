@@ -14,12 +14,9 @@ The goal of the Oregon State University **A**rtificial **I**ntelligence **G**rad
 4. Come chat with us on [Discord!](https://discord.gg/wGrtzFM8sJ)
 
 # Winter 2023 Reading Group
-This term's reading group topic is **Foundations of Learning Theory**. "Can my algorithm converge on the truth?" is an important question to ask when starting an AI problem, and a lot of theory has gone into proving an answer. We will explore one of these theoretical frameworks--Formal Learning Theory--as we work toward understanding the famous "No Free Lunch" theorems.
+This term's reading group topic is **Foundations of Learning Theory**. "Can my algorithm converge on the truth?" is an important question to ask when starting an AI problem, and a lot of theory has gone into proving an answer. We will explore one of these theoretical frameworks--Formal Learning Theory, which explores what can be learned from empirical data--as we work toward understanding the famous "No Free Lunch" theorems.
 
-**The topic:** Foundations of Learning Theory.
-**Why it matters:** To prove that an algorithm can converge on the truth requires a strong understanding of what can be learned from empirical data.
-**Why else you might enjoy participating:** Chipotle and/or Cafe Yumm lunches provided.
-**The time commitment:** Meet five times total this term, 1-2pm on alternating Thursdays (Weeks 2, 4, 6, 8, and 10). To prepare for each meeting, spend ~1 hour on a reading.
+We will meet five times total this term, 1-2pm on alternating Thursdays (Weeks 2, 4, 6, 8, and 10). To prepare for each meeting, spend ~1 hour on a reading. Chipotle and/or Cafe Yumm lunches will be provided.
 
 # Application Support (AIASP)
 For the Fall 2022 application cycle, we launched the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here](https://www.aigsa.club/aiasp).
