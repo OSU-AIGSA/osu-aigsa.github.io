@@ -8,7 +8,7 @@ The goal of the Oregon State University **A**rtificial **I**ntelligence **G**rad
 [<img src="assets/images/twitter_logo.png" width="32">](https://twitter.com/osu_aigsa)&nbsp;&nbsp;&nbsp;[<img src="assets/images/instagram_logo.png" width="32">](https://www.instagram.com/osu_aigsa/)&nbsp;&nbsp;&nbsp;[<img src="assets/images/linkedin_logo.png" width="32" >](https://www.linkedin.com/company/osu-aigsa)
 
 # How do I join?
-1. Follow [this link](https://apps.ideal-logic.com/osusee?key=F3T9-25VWY_5878-CZ4R_f7b06f23) to ideal-logic and login with your OSU credentials
+1. Follow [this link](https://apps.ideal-logic.com/osusee?key=F3T9-25VWY_5878-CZ4R_f7b06f23) to Ideal-Logic and log in with your OSU credentials
 2. Fill out and submit the "New Membership" form that opens post-login
 3. Wait for an email from AIGSA that an officer has approved your membership request
 4. Come chat with us on [Discord!](https://discord.gg/wGrtzFM8sJ)
