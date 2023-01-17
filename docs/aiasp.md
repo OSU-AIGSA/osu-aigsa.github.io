@@ -6,7 +6,7 @@ permalink: /aiasp/
 
 # AI Application Support Program
 
-**AIASP Has reached capacity for this years admissions cycle. Please check back next year to participate!**
+**AIASP has reached capacity for this years admissions cycle. Please check back next year to participate!**
 
 ## For Applicants
 We're excited to announce the Artificial Intelligence Application Support Program (AIASP) for folks historically underrepresented in the field applying to AI graduate degree programs at Oregon State University!
