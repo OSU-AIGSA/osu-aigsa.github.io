@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Meeting of AI Safety Reading Group"
+title: "Final AI Safety Discussion"
 location: KEC 2087
 time: "1 PM - 2 PM"
 ---
