@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Third Meeting of Reading Group"
+title: "Third AI Safety Discussion"
 location: "KEC 2057"
 time: "1 PM - 2 PM"
 ---
