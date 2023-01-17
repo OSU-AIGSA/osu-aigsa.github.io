@@ -18,7 +18,7 @@ This term's reading group topic is **Foundations of Learning Theory**. "Can my a
 
 We will meet five times total this term, **1-2pm on alternating Thursdays** (Weeks 2, 4, 6, 8, and 10). 
 
-To prepare for each meeting, spend **~1 hour** reading. 
+To prepare for each meeting, please spend **~1 hour** on the week's reading. 
 
 To serve as a counterexample to the "No Free Lunch" theorems, **free lunch** from Chipotle and/or Cafe Yumm will be provided.
 
