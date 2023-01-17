@@ -5,7 +5,7 @@ location: KEC 2057
 time: "1 PM - 2 PM"
 ---
 
-The [Winter 2023 AIGSA reading group](https://www.aigsa.club) is about Foundations of Learning Theory. Join us for the first meeting! Lunch will be provided.
+The [Winter 2023 AIGSA reading group](https://www.aigsa.club) is about Foundations of Learning Theory. Join us for the first meeting! Lunch, ironically, will be provided.
 
 This week's topic is **The Riddle of Induction**. Hume asks why we trust inference based on our past experiences. His argument later becomes formalized by Wolpert as part of the "No Free Lunch" theorems.
 
