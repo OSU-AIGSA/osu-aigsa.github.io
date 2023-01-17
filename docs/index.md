@@ -20,7 +20,7 @@ We will meet five times total this term, **1-2pm on alternating Thursdays** (Wee
 
 To prepare for each meeting, spend **~1 hour** reading. 
 
-To serve as a counterexample to the No Free Lunch theorems, free lunches from Chipotle and/or Cafe Yumm will be provided.
+To serve as a counterexample to the No Free Lunch theorems, **free lunches** from Chipotle and/or Cafe Yumm will be provided.
 
 # Application Support (AIASP)
 For the Fall 2022 application cycle, we launched the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here](https://www.aigsa.club/aiasp).
