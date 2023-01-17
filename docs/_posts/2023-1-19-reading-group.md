@@ -9,4 +9,4 @@ The [Winter 2023 AIGSA reading group](https://www.aigsa.club) is about Foundatio
 
 This week's topic is **The Riddle of Induction**. Hume asks why we trust inference based on our past experiences. His argument later becomes formalized by Wolpert as part of the "No Free Lunch" theorems.
 
-To prepare, **please spend ~1 hour reading** at least [Section 1 "Hume's Problem"](https://plato.stanford.edu/entries/induction-problem/#HumeProb) of the Stanford Encyclopedia of Philosophy entry on "The Problem of Induction".
+To prepare, **please spend up to 1 hour reading** at least [Section 1 "Hume's Problem"](https://plato.stanford.edu/entries/induction-problem/#HumeProb) of the Stanford Encyclopedia of Philosophy entry on "The Problem of Induction".
