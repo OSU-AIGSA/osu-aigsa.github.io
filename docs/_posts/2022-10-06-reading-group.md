@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Meeting of Reading Group"
+title: "First AI Safety Discussion"
 location: "WNGR 285"
 time: "1 PM - 2 PM"
 ---
