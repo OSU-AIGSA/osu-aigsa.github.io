@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Learning Theory Discussion"
-location: KEC 2057
+location: Chipotle on Monroe
 time: "1 PM - 2 PM"
 ---
 
