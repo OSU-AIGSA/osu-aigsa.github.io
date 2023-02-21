@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chatbot Chat"
-location: TBA
+location: KEC 1114
 time: "1:00 PM - 2:00 PM"
 ---
 
