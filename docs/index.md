@@ -15,7 +15,7 @@ The goal of the Oregon State University **A**rtificial **I**ntelligence **G**rad
 
 # Spring 2023 Reading Groups
 
-Take your pick of two reading groups this term!
+Take your pick of two reading groups this term! Make sure to join the conversation on [Discord](https://discord.gg/wGrtzFM8sJ).
 
 ## The Flavors of Reinforcement Learning
 
@@ -29,7 +29,7 @@ To prepare for each meeting, please spend **~1 hour** on the week's learning mat
 
 AIGSA officer Aseem is running the reading group on Generative AI.
 
-This group will meet **every Friday** (time TBA). 
+This group will meet **every Friday at 4pm** (location TBD).
 
 For the first half hour of each meeting, we'll discuss material from [Stanford's course on Deep Generative Models](https://deepgenerativemodels.github.io/). For the second half, a reading group member will present a relevant paper. 
 
