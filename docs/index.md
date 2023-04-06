@@ -29,7 +29,7 @@ AIGSA member Aayam is our guide to The Flavors of Reinforcement Learning. Reinfo
 
 This group will meet **every Thursday at 4pm** with food provided. 
 
-To prepare for each meeting, please spend **~1 hour** on the week's learning materials, listed on the [event page for each discussion](https://www.aigsa.club/2023/04/06/reading-group.html).
+To prepare for each meeting, please spend **~1 hour** on the week's learning materials, listed on the [event page for each discussion](https://www.aigsa.club/rlflavors/).
 
 ## Generative AI
 
