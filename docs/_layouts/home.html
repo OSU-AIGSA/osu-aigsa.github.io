@@ -17,6 +17,9 @@ layout: default
     {% assign events = site.posts %}
     <ul>
         {%- for event in events %}
+        {% if event.event_group %}
+            {% continue %}
+        {% endif %}
         <li>
             <h3><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h3>
             {{ event.date | date: "%b %-d, %Y" }}, {{ event.time }}
