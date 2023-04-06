@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<!-- if statement forces this to be evaluated live -->
+{% if true %}
+    <script src="{{ base.url | prepend: site.url }}/assets/js/event-hider.js"></script>
+{% endif %}
+
+{{ content }}
+
+<!-- events -->
+<h1>Event Schedule</h1>
+<div id="event-display" style="display:none;">
+
+    
+    {% assign events = site.posts %}
+    <ul>
+        {%- for event in events %}
+        {% if event.event_group == page.event_group%}
+        <li>
+            <h3><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h3>
+            {{ event.date | date: "%b %-d, %Y" }}, {{ event.time }}
+            </br>
+            {{ event.location }}
+        </li>
+        {% endif %}
+        {%- endfor -%}
+    </ul>
+
+    <!-- Display up coming events -->
+    <!-- Tempoarily disable dynamic events
+    <h2>Upcoming</h2>
+    <ul>
+        {%- for event in events %}
+        <li date-future="{{ event.date }}">
+            <h3><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h3>
+            {{ event.date | date: "%b %-d, %Y" }}, {{ event.time }}
+            </br>
+            {{ event.location }}
+        </li>
+        {%- endfor -%}
+    </ul>
+    -->
+
+    <!-- Display past events -->
+    <!-- Tempoarily disable dynamic events
+    <h2>Past</h2>
+    <ul>
+        {%- for event in events %}
+        <li date-past="{{ event.date }}">
+            <h3><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h3>
+            {{ event.date | date: "%b %-d, %Y" }}, {{ event.time }}
+            </br>
+            {{ event.location }}
+        </li>
+        {%- endfor -%}
+    </ul>
+    -->
+</div>
