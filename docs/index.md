@@ -13,17 +13,23 @@ The goal of the Oregon State University **A**rtificial **I**ntelligence **G**rad
 3. Wait for an email from AIGSA that an officer has approved your membership request
 4. Come chat with us on [Discord!](https://discord.gg/wGrtzFM8sJ)
 
+---
+
 # Spring 2023 Reading Groups
 
-Take your pick of two reading groups this term! Make sure to join the conversation on [Discord](https://discord.gg/wGrtzFM8sJ).
+Take your pick of two reading groups this term! 
+
+Make sure to join the conversation in the reading group channels on [Discord](https://discord.gg/wGrtzFM8sJ).
+
+**See the Events section below for details of each meeting.** 
 
 ## The Flavors of Reinforcement Learning
 
 AIGSA member Aayam is our guide to The Flavors of Reinforcement Learning. Reinforcement learning (RL) is a powerful and versatile machine learning paradigm that has revolutionized our ability to tackle complex decision-making problems. In this reading group, we will delve into the various flavors of reinforcement learning, providing a high-level overview of different RL techniques and their applications.
 
-This group will meet **every Thursday at 4pm** with lunch provided.
+This group will meet **every Thursday at 4pm** with food provided. 
 
-To prepare for each meeting, please spend **~1 hour** on the week's learning materials. 
+To prepare for each meeting, please spend **~1 hour** on the week's learning materials, listed on the [event page for each discussion](https://www.aigsa.club/2023/04/06/reading-group.html).
 
 ## Generative AI
 
@@ -32,6 +38,8 @@ AIGSA officer Aseem is running the reading group on Generative AI.
 This group will meet **every Friday at 4pm** (location TBD).
 
 For the first half hour of each meeting, we'll discuss material from [Stanford's course on Deep Generative Models](https://deepgenerativemodels.github.io/). For the second half, a reading group member will present a relevant paper. 
+
+---
 
 # Application Support (AIASP)
 For the Fall 2022 application cycle, we launched the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here](https://www.aigsa.club/aiasp).
