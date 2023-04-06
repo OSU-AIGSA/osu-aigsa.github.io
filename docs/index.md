@@ -19,11 +19,9 @@ The goal of the Oregon State University **A**rtificial **I**ntelligence **G**rad
 
 Take your pick of two reading groups this term! 
 
-Make sure to join the conversation in the reading group channels on [Discord](https://discord.gg/wGrtzFM8sJ).
+Join the conversation in the reading group channels on [Discord](https://discord.gg/wGrtzFM8sJ).
 
-**See the Events section below for details of each meeting.** 
-
-## The Flavors of Reinforcement Learning
+## [The Flavors of Reinforcement Learning](https://www.aigsa.club/rlflavors/)
 
 AIGSA member Aayam is our guide to The Flavors of Reinforcement Learning. Reinforcement learning (RL) is a powerful and versatile machine learning paradigm that has revolutionized our ability to tackle complex decision-making problems. In this reading group, we will delve into the various flavors of reinforcement learning, providing a high-level overview of different RL techniques and their applications.
 
