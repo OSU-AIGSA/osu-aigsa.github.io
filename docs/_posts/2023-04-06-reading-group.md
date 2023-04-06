@@ -6,8 +6,6 @@ time: "4 PM - 5 PM"
 event_group: rlflavors
 ---
 
-This [Spring 2023 AIGSA reading group](https://www.aigsa.club) is about Flavors of Reinforcement Learning. Join us for the first meeting! 
-
 We'll kick off the reading group with a light discussion on the range of topics we'd like to cover this term and the location/format for the sessions. 
 
 Below are some fun and light pointers regarding RL (optional reading):
