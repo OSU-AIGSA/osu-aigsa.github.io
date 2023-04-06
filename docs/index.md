@@ -43,3 +43,5 @@ For the first half hour of each meeting, we'll discuss material from [Stanford's
 
 # Application Support (AIASP)
 For the Fall 2022 application cycle, we launched the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here](https://www.aigsa.club/aiasp).
+
+---
