@@ -5,6 +5,8 @@ permalink: /rlflavors/
 event_group: rlflavors
 ---
 
+# The Flavors of Reinforcement Learning
+
 AIGSA member Aayam is our guide to The Flavors of Reinforcement Learning. Reinforcement learning (RL) is a powerful and versatile machine learning paradigm that has revolutionized our ability to tackle complex decision-making problems. In this reading group, we will delve into the various flavors of reinforcement learning, providing a high-level overview of different RL techniques and their applications.
 
 This group will meet **every Thursday at 4pm** with food provided.
