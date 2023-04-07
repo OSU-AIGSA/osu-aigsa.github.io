@@ -29,7 +29,7 @@ This group will meet **every Thursday at 4pm** with food provided.
 
 To prepare for each meeting, please spend **~1 hour** on the week's learning materials, Details [here](https://www.aigsa.club/rlflavors/).
 
-## Generative AI
+## [Generative AI](https://www.aigsa.club/genai/)
 
 AIGSA officer Aseem is running the reading group on Generative AI. Generative AI has excited both the AI community and the public. The goal of this reading group is to understand technically and intuitively how these generative models work. We will discuss GANs, VAEs, transformers, and more. We hope that this material will be useful for your research!
 
