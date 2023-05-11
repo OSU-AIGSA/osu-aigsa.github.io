@@ -9,4 +9,4 @@ WWe are excited to announce a talk and discussion on Tales from the Sociotechnic
 
 Expect a short presentation followed by a discussion and storytelling about the wild world waiting on the other side of a machine learning degree. Sean will talk about his work with the AI Incident Database, the AI XPRIZE, a neural accelerator startup, and the wider world of AI policy.
 
-Since earning his PhD in Computer Science in 2017, Sean has founded the Responsible AI Collaborative, served as the lead technical consultant for the IBM Watson AI XPRIZE, and developed the AI Incident Database, all on top of his technical research. You can learn more about him at his website: https://seanbmcgregor.com/pages/about.html
+Since earning his PhD in Computer Science in 2017, Sean has founded the Responsible AI Collaborative, served as the lead technical consultant for the IBM Watson AI XPRIZE, and developed the AI Incident Database, all on top of his technical research. You can learn more about him at his [website](https://seanbmcgregor.com/pages/about.html).
