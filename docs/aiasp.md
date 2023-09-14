@@ -37,6 +37,18 @@ To sign up, please fill out [this form](https://forms.gle/zLdufYCVJ7eQTxfb8).
 
 We highly appreciate suggestions regarding the mentorship program. Please feel free to contact the lead AIASP coordinator Eric Slyman (slymane[at]oregonstate[dot]edu) with your comments or queries regarding the program.
 
+## Important Dates
+
+**Applications Open** \
+*Open Now!*
+
+**Phase 1 – Graduate School Chat Dates** \
+*09/27/2023– 11/01/2023*
+
+**Phase 2 – Application Review** \
+*Dates: 09/27/2023 - Application Close* \
+Application Closes on 12/01/2023 for Ph.D. and 01/01/2024 for MS.
+
 ## Acknowledgements 
 
 We thank the University of Washington Pre-Application Mentorship Service and QueerInAI organizers for their support in conversations, access to reference materials, and specific language included in many of our documents. Our service is made possible by inspiration from these and other similar organizations, and the time donated by our wonderful volunteers.
