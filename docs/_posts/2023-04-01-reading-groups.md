@@ -2,7 +2,7 @@
 layout: post
 title: "Spring 2023 Reading Groups"
 location: "Various"
-time: "Various"
+time: "4:00 PM - 5:00 PM"
 ---
 
 ## Flavors of RL
