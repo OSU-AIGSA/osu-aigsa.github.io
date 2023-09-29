@@ -22,7 +22,7 @@ Take your pick of two reading groups this term!
 Each group will meet **weekly** with **food provided**. To prepare for each meeting, please spend ~1 hour on the week's learning materials. **Details will be shared on [Discord](https://discord.gg/wGrtzFM8sJ)**.
 
 ## AI Governance
-As governments around the world pass historic AI policies, this is a great time to learn about AI policy and form our own opinions about how to mitigate risks from AI. AIGSA co-president Kendrea will condense the material from the [AI Safety Fundamentals Governance curriculum](https://course.aisafetyfundamentals.com/governance).
+As governments around the world pass historic AI policies, this is a great time to learn about AI policy and form our own opinions about how to mitigate risks from AI. AIGSA co-president Kendrea will base the material on the [AI Safety Fundamentals Governance curriculum](https://course.aisafetyfundamentals.com/governance).
 
 ## The Flavors of Reinforcement Learning
 
