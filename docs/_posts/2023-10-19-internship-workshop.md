@@ -2,7 +2,7 @@
 layout: post
 title: "Internship and Resume Workshop"
 location: "Weniger Hall Room 149"
-time: "4:0 PM - 5:00 PM"
+time: "4:00 PM - 5:00 PM"
 ---
 
 The AIGSA is organizing a workshop for AI grad students to receive and give advice about internships on **Thursday, Oct 19th, between 4-5pm in Weniger Hall Room 149 with free food courtesy of the AIGSA**. Attendees will pair up and discuss their experiences applying for internships, the interview process, and making the best of the internship experience. We hope this will be a great opportunity to learn from and network with your peers.
