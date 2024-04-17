@@ -13,7 +13,17 @@ The goal of the **A**rtificial **I**ntelligence **G**raduate **S**tudent **A**ss
 3. Wait for an email from AIGSA that an officer has approved your membership request
 4. Come chat with us on [Discord!](https://discord.gg/wGrtzFM8sJ)
 
----
+# Reading Group: Abstractions in Decision Making
+
+Discover the power of abstractions in decision making! 
+
+Join our reading group as we delve into state and action abstractions in both discrete and continuous spaces. We will explore topics such as bisimulation metrics, homomorphisms, and options frameworks. We also have exciting invited talks planned from experts in the field.
+
+We will have our reading groups on Thursdays from 5-6 PM with food provided.
+
+[Tentative Schedule](https://docs.google.com/document/d/1KI_hMutJ5p3e3zgym5kDPwyfMlAYPhlKcKfb17tQGGM/edit?usp=sharing)
+
+More info can be found in the AIGSA Discord Channel #abstractions-in-decision-making.
 
 # Application Support (AIASP) - Fall 2023 Season Complete
 In the Fall 2022 application cycle, we launched the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here](https://www.aigsa.club/aiasp).
