@@ -15,7 +15,7 @@ The goal of the **A**rtificial **I**ntelligence **G**raduate **S**tudent **A**ss
 
 # Interest Groups
 
-## Application Support (AIASP) - Closed for Fall '23
+## Application Support (AIASP) - Open for Fall '24
 In the Fall 2022 application cycle, we launched the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here](https://www.aigsa.club/aiasp).
 
 ## Reading Group: Abstractions in Decision Making
