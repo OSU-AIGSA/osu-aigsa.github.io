@@ -17,7 +17,7 @@ AIASP is divided into two phases, both of which are primarily mentored by curren
 
 **Phase 2** - Application Feedback. In the second phase, applicants will receive early feedback on their Statement of Purpose and CV. They may share any information about their identity and research interests that they'd like considered when matching their application materials with a mentor for review.
 
-You can register to participate with [this form](https://forms.gle/yA39fUzVx4gXvrLk9)! We're looking forward to all the new connections we'll get to make along the way in this exciting second year of AIASP 🎉🎉
+You can register to participate with [this form]([https://forms.gle/yA39fUzVx4gXvrLk9](https://forms.gle/zVvWrNaRttxXhYzs8))! We're looking forward to all the new connections we'll get to make along the way in this exciting second year of AIASP 🎉🎉
 
 Participation in AIASP is completely separate from the official graduate application process and therefore does not guarantee admission to the program. Information will be aggregated and anonymized to evaluate the impact of this program, but individual responses will be deleted at the end of this application cycle. Mentors will not review the applicant's official application, and the applicant's participation in AIASP will not be disclosed to the admissions committee or any faculty members.
 
