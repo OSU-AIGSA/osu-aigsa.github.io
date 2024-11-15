@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Town Hall & Social
+title: "Town Hall & Social"
 location: "Memorial Union Lanes & Games"
 time: "5:00 PM - 7:00 PM"
 ---
