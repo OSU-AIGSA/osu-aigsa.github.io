@@ -6,10 +6,10 @@ permalink: /aiasp/
 
 # AI Application Support Program
 
-**AIASP is open for the 2025 admissions cycle!**
+**AIASP is open for the 2026 admissions cycle!**
 
 ## For Applicants
-We are excited to announce the 2025 Artificial Intelligence Application Support Program (AIASP)! While we primarily serve folks historically underrepresented in the field, our program is open to anyone applying to AI graduate degree programs at Oregon State University who needs support.
+We are excited to announce the 2026 Artificial Intelligence Application Support Program (AIASP)! While we primarily serve folks historically underrepresented in the field, our program is open to anyone applying to AI graduate degree programs at Oregon State University who needs support.
 
 AIASP is divided into two phases, both of which are primarily mentored by current graduate student volunteers in the AI program at OSU:
 
