@@ -33,65 +33,7 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
 ## Try 4
 
-## Events Calendar
-
-<!-- FullCalendar CSS and JS -->
-<link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.css" rel="stylesheet" />
-<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js"></script>
-
-<!-- Calendar container -->
-<div id="calendar"></div>
-
-<!-- Calendar setup -->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var calendarEl = document.getElementById('calendar');
-
-    var calendar = new FullCalendar.Calendar(calendarEl, {
-      initialView: 'dayGridMonth',
-      events: [
-        {
-          title: 'Grad Student Talks',
-          startTime: '12:00:00',
-          endTime: '13:00:00',
-          daysOfWeek: [3], // Wednesday
-          interval: 2,     // every 2 weeks
-          startRecur: '2025-10-01',
-          endRecur: '2025-12-03',
-          location: 'KEC 1001'
-        },
-        {
-          title: 'Current Events Chat & Dinner',
-          startTime: '17:00:00',
-          endTime: '18:00:00',
-          daysOfWeek: [3], // Wednesday
-          interval: 2,     // every 2 weeks
-          startRecur: '2025-10-08',
-          endRecur: '2025-12-03',
-          location: 'KEC 1114'
-        },
-        {
-          title: 'Coffee & Bagel Study Hours',
-          startTime: '10:30:00',
-          endTime: '12:30:00',
-          daysOfWeek: [1], // Monday
-          startRecur: '2025-09-29',
-          endRecur: '2025-12-07',
-          location: 'KEC 1114'
-        }
-      ]
-    });
-
-    calendar.render();
-  });
-</script>
-
-<style>
-  #calendar {
-    max-width: 900px;
-    margin: 40px auto;
-  }
-</style>
+<iframe src="https://teamup.com/ks654rdw9ybmp3o52g?view=m&tz=Calendar%20default&showLogo=0&showSearch=0&showProfileAndInfo=0&disableSidepanel=1&showTitle=1&showViewSelector=0&showMenu=0&showViewHeader=1&showAgendaDetails=1&listGroupBy=month&showDateControls=1&showDateRange=0&tilesGroupBy=month" style="width: 100%; height: 600px; border: 1px solid #cccccc" loading="lazy" frameborder="0"></iframe>
 
 
 
