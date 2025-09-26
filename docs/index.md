@@ -29,15 +29,63 @@ Every other Wednesday from 5-6 in KEC 1114 starting October 8st.
 #### Weekly Coffee & Bagel Study Hours
 Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
-[Events Schedule Link](https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles)
+## Events Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles" 
-        style="border: 0" 
-        width="800" 
-        height="600" 
-        frameborder="0" 
-        scrolling="no">
-</iframe>
+<!-- FullCalendar CSS and JS -->
+<link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js"></script>
+
+<!-- Calendar container -->
+<div id="calendar"></div>
+
+<!-- Calendar setup -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('calendar');
+
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      initialView: 'dayGridMonth',
+      events: [
+        {
+          title: 'Grad Student Talks',
+          startTime: '12:00:00',
+          endTime: '13:00:00',
+          daysOfWeek: [3], // Wednesday
+          interval: 2,     // every 2 weeks
+          startRecur: '2025-10-01',
+          location: 'KEC 1001'
+        },
+        {
+          title: 'Current Events Chat & Dinner',
+          startTime: '17:00:00',
+          endTime: '18:00:00',
+          daysOfWeek: [3], // Wednesday
+          interval: 2,     // every 2 weeks
+          startRecur: '2025-10-08',
+          location: 'KEC 1114'
+        },
+        {
+          title: 'Coffee & Bagel Study Hours',
+          startTime: '10:30:00',
+          endTime: '12:30:00',
+          daysOfWeek: [1], // Monday
+          startRecur: '2025-09-29',
+          location: 'KEC 1114'
+        }
+      ]
+    });
+
+    calendar.render();
+  });
+</script>
+
+<style>
+  #calendar {
+    max-width: 900px;
+    margin: 40px auto;
+  }
+</style>
+
 
 
 For updates on events, and questions, please post in the general channel on the [Discord.](https://discord.gg/wGrtzFM8sJ)
