@@ -31,6 +31,8 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
 ## Events Calendar
 
+## Events Calendar
+
 <!-- FullCalendar CSS and JS -->
 <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js"></script>
@@ -45,31 +47,42 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
       initialView: 'dayGridMonth',
+      eventDidMount: function(info) {
+        // Show location in tooltip when hovering
+        if (info.event.extendedProps.location) {
+          var tooltip = new Tooltip(info.el, {
+            title: info.event.extendedProps.location,
+            placement: 'top',
+            trigger: 'hover',
+            container: 'body'
+          });
+        }
+      },
       events: [
         {
-          title: 'Grad Student Talks',
+          title: 'Coffee & Bagel Study Hours',
+          startTime: '10:30:00',
+          endTime: '12:00:00',
+          daysOfWeek: [1], // Monday
+          startRecur: '2025-09-29',
+          location: 'KEC 1114'
+        },
+        {
+          title: 'Grad Student Presentations / Tutorials',
           startTime: '12:00:00',
           endTime: '13:00:00',
           daysOfWeek: [3], // Wednesday
-          interval: 2,     // every 2 weeks
+          interval: 2,     // every other week
           startRecur: '2025-10-01',
           location: 'KEC 1001'
         },
         {
-          title: 'Current Events Chat & Dinner',
+          title: 'Current Events & Dinner',
           startTime: '17:00:00',
           endTime: '18:00:00',
           daysOfWeek: [3], // Wednesday
-          interval: 2,     // every 2 weeks
+          interval: 2,     // every other week
           startRecur: '2025-10-08',
-          location: 'KEC 1114'
-        },
-        {
-          title: 'Coffee & Bagel Study Hours',
-          startTime: '10:30:00',
-          endTime: '12:30:00',
-          daysOfWeek: [1], // Monday
-          startRecur: '2025-09-29',
           location: 'KEC 1114'
         }
       ]
@@ -85,6 +98,9 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
     margin: 40px auto;
   }
 </style>
+
+
+
 
 
 
