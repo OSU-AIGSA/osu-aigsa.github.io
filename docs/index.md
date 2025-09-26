@@ -20,14 +20,14 @@ In the Fall 2022 application cycle, we launched the Artificial Intelligence Appl
 
 ## Recurring Events
 
-This year, we are going to be offering three recurring events as listed below. For more information, so the Events Schedule and click on the event you are interested in. Hope to see you there! :) 
+This year, we are going to be offering three recurring events as listed below. For more information, go to the Events Schedule and click on the event you are interested in. Hope to see you there!
 
-### Bi-Weekly Grad Student Talks 
-  - Every other Wednesday from 12-1 in KEC 1001 starting October 1st. 
-### Bi-Weekly Current Events Chat & Dinner
-  - Every other Wednesday from 5-6 in KEC 1114 starting October 8st. 
-### Weekly Coffee & Bagel Study Hours
-  - Every Monday from 10:30-12:30 in KEC 1114 starting September 29th. 
+#### Bi-Weekly Grad Student Talks 
+Every other Wednesday from 12-1 in KEC 1001 starting October 1st. 
+#### Bi-Weekly Current Events Chat & Dinner
+Every other Wednesday from 5-6 in KEC 1114 starting October 8st. 
+#### Weekly Coffee & Bagel Study Hours
+Every Monday from 10:30-12:30 in KEC 1114 starting September 29th. 
 
 
 [Tentative Schedule](https://docs.google.com/document/d/1KI_hMutJ5p3e3zgym5kDPwyfMlAYPhlKcKfb17tQGGM/edit?usp=sharing)
