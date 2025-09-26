@@ -33,6 +33,8 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 [Tentative Schedule](https://docs.google.com/document/d/1KI_hMutJ5p3e3zgym5kDPwyfMlAYPhlKcKfb17tQGGM/edit?usp=sharing)
 [Events Schedule](https://calendar.google.com/calendar/u/1?cid=ZnJua2hkZ3M4QGdtYWlsLmNvbQ)
 
+<iframe src="https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 For updates on events, and questions, please post in the general channel on the [Discord.](https://discord.gg/wGrtzFM8sJ)
 
