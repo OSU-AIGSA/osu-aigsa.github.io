@@ -31,6 +31,8 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
 
 [Tentative Schedule](https://docs.google.com/document/d/1KI_hMutJ5p3e3zgym5kDPwyfMlAYPhlKcKfb17tQGGM/edit?usp=sharing)
+[Events Schedule](https://calendar.google.com/calendar/u/1/r/month/2025/10/1?pli=1)
+
 
 For updates on events, and questions, please post in the general channel on the [Discord.](https://discord.gg/wGrtzFM8sJ)
 
