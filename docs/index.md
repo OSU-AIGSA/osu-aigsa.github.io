@@ -57,6 +57,7 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
           daysOfWeek: [3], // Wednesday
           interval: 2,     // every 2 weeks
           startRecur: '2025-10-01',
+          endRecur: '2025-12-03',
           location: 'KEC 1001'
         },
         {
@@ -66,6 +67,7 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
           daysOfWeek: [3], // Wednesday
           interval: 2,     // every 2 weeks
           startRecur: '2025-10-08',
+          endRecur: '2025-12-03',
           location: 'KEC 1114'
         },
         {
@@ -74,6 +76,7 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
           endTime: '12:30:00',
           daysOfWeek: [1], // Monday
           startRecur: '2025-09-29',
+          endRecur: '2025-12-07',
           location: 'KEC 1114'
         }
       ]
