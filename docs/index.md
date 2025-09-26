@@ -15,19 +15,23 @@ The goal of the **A**rtificial **I**ntelligence **G**raduate **S**tudent **A**ss
 
 # Interest Groups
 
-## Application Support (AIASP) - Open for Fall '25
+## Application Support (AIASP) - Open for Fall '26
 In the Fall 2022 application cycle, we launched the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here](https://www.aigsa.club/aiasp).
 
-## Reading Group: Abstractions in Decision Making
+## Recurring Events
 
-Discover the power of abstractions in decision making! 
+This year, we are going to be offering three recurring events as listed below. For more information, so the Events Schedule and click on the event you are interested in. Hope to see you there! :) 
 
-Join our reading group as we delve into state and action abstractions in both discrete and continuous spaces. We will explore topics such as bisimulation metrics, homomorphisms, and options frameworks. We also have exciting invited talks planned from experts in the field.
+### Bi-Weekly Grad Student Talks 
+  - Every other Wednesday from 12-1 in KEC 1001 starting October 1st. 
+### Bi-Weekly Current Events Chat & Dinner
+  - Every other Wednesday from 5-6 in KEC 1114 starting October 8st. 
+### Weekly Coffee & Bagel Study Hours
+  - Every Monday from 10:30-12:30 in KEC 1114 starting September 29th. 
 
-We will have our reading groups on Thursdays from 5-6 PM with food provided.
 
 [Tentative Schedule](https://docs.google.com/document/d/1KI_hMutJ5p3e3zgym5kDPwyfMlAYPhlKcKfb17tQGGM/edit?usp=sharing)
 
-More info can be found in the AIGSA Discord Channel #abstractions-in-decision-making.
+For updates on events, and questions, please post in the general channel on the [Discord.](https://discord.gg/wGrtzFM8sJ)
 
 ---
