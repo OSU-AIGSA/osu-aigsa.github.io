@@ -31,7 +31,7 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
 ## Events Calendar
 
-## Events Calendar
+## Try 2
 
 <!-- FullCalendar CSS and JS -->
 <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.css" rel="stylesheet" />
