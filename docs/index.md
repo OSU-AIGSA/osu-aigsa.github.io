@@ -27,7 +27,9 @@ Every other Wednesday from 12-1 in KEC 1001 starting October 1st.
 #### Bi-Weekly Current Events Chat & Dinner
 Every other Wednesday from 5-6 in KEC 1114 starting October 8st. 
 #### Weekly Coffee & Bagel Study Hours
-Every Monday from 10:30-12:30 in KEC 1114 starting September 29th. 
+Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
+
+[Events Schedule Link}(https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles)
 
 [Calendar](<iframe src="https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>)
 
