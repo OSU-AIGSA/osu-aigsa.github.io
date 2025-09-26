@@ -31,14 +31,13 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
 ## Events Calendar
 
-## Try 3
+## Try 4
 
 ## Events Calendar
 
 <!-- FullCalendar CSS and JS -->
 <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/rrule@6.1.9/index.global.min.js"></script>
 
 <!-- Calendar container -->
 <div id="calendar"></div>
@@ -50,40 +49,31 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
       initialView: 'dayGridMonth',
-      eventClick: function(info) {
-        alert(info.event.title + "\nLocation: " + info.event.extendedProps.location);
-      },
       events: [
         {
-          title: 'Coffee & Bagel Study Hours',
-          rrule: {
-            freq: 'weekly',
-            byweekday: 'mo',
-            dtstart: '2025-09-29T10:30:00',
-          },
-          duration: '01:30:00',
-          location: 'KEC 1114'
-        },
-        {
-          title: 'Grad Student Presentations / Tutorials',
-          rrule: {
-            freq: 'weekly',
-            interval: 2,         // every other week
-            byweekday: 'we',
-            dtstart: '2025-10-01T12:00:00',
-          },
-          duration: '01:00:00',
+          title: 'Grad Student Talks',
+          startTime: '12:00:00',
+          endTime: '13:00:00',
+          daysOfWeek: [3], // Wednesday
+          interval: 2,     // every 2 weeks
+          startRecur: '2025-10-01',
           location: 'KEC 1001'
         },
         {
-          title: 'Current Events & Dinner',
-          rrule: {
-            freq: 'weekly',
-            interval: 2,         // every other week
-            byweekday: 'we',
-            dtstart: '2025-10-08T17:00:00',
-          },
-          duration: '01:00:00',
+          title: 'Current Events Chat & Dinner',
+          startTime: '17:00:00',
+          endTime: '18:00:00',
+          daysOfWeek: [3], // Wednesday
+          interval: 2,     // every 2 weeks
+          startRecur: '2025-10-08',
+          location: 'KEC 1114'
+        },
+        {
+          title: 'Coffee & Bagel Study Hours',
+          startTime: '10:30:00',
+          endTime: '12:30:00',
+          daysOfWeek: [1], // Monday
+          startRecur: '2025-09-29',
           location: 'KEC 1114'
         }
       ]
@@ -99,6 +89,7 @@ Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
     margin: 40px auto;
   }
 </style>
+
 
 
 
