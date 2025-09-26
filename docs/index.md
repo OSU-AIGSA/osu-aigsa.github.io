@@ -29,9 +29,15 @@ Every other Wednesday from 5-6 in KEC 1114 starting October 8st.
 #### Weekly Coffee & Bagel Study Hours
 Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
-[Events Schedule Link}(https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles)
+[Events Schedule Link](https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles)
 
-[Calendar](<iframe src="https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>)
+<iframe src="https://calendar.google.com/calendar/embed?src=frnkhdgs8%40gmail.com&ctz=America%2FLos_Angeles" 
+        style="border: 0" 
+        width="800" 
+        height="600" 
+        frameborder="0" 
+        scrolling="no">
+</iframe>
 
 
 For updates on events, and questions, please post in the general channel on the [Discord.](https://discord.gg/wGrtzFM8sJ)
