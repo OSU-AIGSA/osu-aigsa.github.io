@@ -13,7 +13,10 @@ The goal of the **A**rtificial **I**ntelligence **G**raduate **S**tudent **A**ss
 3. Wait for an email from AIGSA that an officer has approved your membership request
 4. Come chat with us on [Discord!](https://discord.gg/wGrtzFM8sJ)
 
-# Interest Groups
+# Welcome Event!! 
+Come bowl and eat pizza on Thursday, October 2nd. For more information and to RSVP click [here](https://www.aigsa.club/2025/10/02/bowling-mu.html).
+
+## Interest Groups
 
 ## Application Support (AIASP) - Open for Fall '26
 In the Fall 2022 application cycle, we launched the Artificial Intelligence Application Support Program (AIASP), a service run by volunteer graduate students in our school to assist folks historically underrepresented in the field as they apply to AI graduate programs (M.S./Ph.D.) at OSU! You can find more info [here](https://www.aigsa.club/aiasp).
@@ -26,7 +29,7 @@ This year, we are going to be offering three recurring events as listed below. F
 Every other Wednesday from 12-1 in KEC 1001 starting October 8th. 
 #### [Bi-Weekly Current Events Chat & Dinner](https://www.aigsa.club/dinner)
 Every other Wednesday from 5-6 in KEC 1114 starting October 1st. 
-#### [Weekly Coffee & Bagel Study Hours](https://www.aigsa.club/coffee)
+#### [Weekly Coffee & Bagel Study Hours](https://www.aigsa.club/2025/09/29/bagels.html)
 Every Monday from 10:30-12:30 in KEC 1114 starting September 29th.
 
 <iframe src="https://teamup.com/ks654rdw9ybmp3o52g?view=m&tz=Calendar%20default&showLogo=0&showSearch=0&showProfileAndInfo=0&disableSidepanel=1&showTitle=1&showViewSelector=0&showMenu=0&showViewHeader=1&showAgendaDetails=1&listGroupBy=month&showDateControls=1&showDateRange=0&tilesGroupBy=month" style="width: 100%; height: 600px; border: 1px solid #cccccc" loading="lazy" frameborder="0"></iframe>
