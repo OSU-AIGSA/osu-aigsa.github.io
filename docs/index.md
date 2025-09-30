@@ -22,7 +22,7 @@ In the Fall 2022 application cycle, we launched the Artificial Intelligence Appl
 
 This year, we are going to be offering three recurring events as listed below. For more information, go to the Events Schedule and click on the event you are interested in. Hope to see you there!
 
-#### Bi-Weekly Grad Student Talks 
+#### AI Tutorials By Grad Students 
 Every other Wednesday from 12-1 in KEC 1001 starting October 8th. 
 #### Bi-Weekly Current Events Chat & Dinner
 Every other Wednesday from 5-6 in KEC 1114 starting October 1st. 
