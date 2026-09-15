@@ -6,10 +6,10 @@ permalink: /aiasp/
 
 # AI Application Support Program
 
-**AIASP is open for the 2026 admissions cycle!**
+**AIASP is open for the 2026-27 admissions cycle!**
 
 ## For Applicants
-We are excited to announce the 2026 Artificial Intelligence Application Support Program (AIASP)! While we primarily serve folks historically underrepresented in the field, our program is open to anyone applying to AI graduate degree programs at Oregon State University who needs support.
+We are excited to announce the 2026-27 Artificial Intelligence Application Support Program (AIASP)! While we primarily serve folks historically underrepresented in the field, our program is open to anyone applying to AI graduate degree programs at Oregon State University who needs support.
 
 AIASP is divided into two phases, both of which are primarily mentored by current graduate student volunteers in the AI program at OSU:
 
@@ -17,7 +17,7 @@ AIASP is divided into two phases, both of which are primarily mentored by curren
 
 **Phase 2** - Application Feedback. In the second phase, applicants will receive early feedback on their Statement of Purpose and CV. They may share any information about their identity and research interests that they'd like considered when matching their application materials with a mentor for review.
 
-You can register to participate with [this form](https://forms.gle/Gcn9fVsZPMZ52Dey8)! We're looking forward to all the new connections we'll get to make along the way in this exciting second year of AIASP 🎉🎉
+You can register to participate with [this form](https://forms.gle/fod4j88mb6Ad8yUQ6)! We're looking forward to all the new connections we'll get to make along the way in this exciting second year of AIASP 🎉🎉
 
 Participation in AIASP is completely separate from the official graduate application process and therefore does not guarantee admission to the program. Information will be aggregated and anonymized to evaluate the impact of this program, but individual responses will be deleted at the end of this application cycle. Mentors will not review the applicant's official application, and the applicant's participation in AIASP will not be disclosed to the admissions committee or any faculty members.
 
@@ -33,7 +33,7 @@ In Phase 1, you will have a 30-minute chat with an applicant about the following
 
 In Phase 2, you will provide feedback on the applicant’s Statement of Purpose and CV.
 
-To sign up, please fill out [this form](https://forms.gle/gR1dXAPKNC7jqiVf7). 
+To sign up, please fill out [this form](https://forms.gle/q6m3FU2SzX8bzvKf7). 
 
 We highly appreciate suggestions regarding the mentorship program. Please feel free to contact the lead AIASP coordinator Amelia Kawasaki (kawasaka[at]oregonstate[dot]edu) with your comments or queries regarding the program.
 
@@ -43,11 +43,11 @@ We highly appreciate suggestions regarding the mentorship program. Please feel f
 *Open Now!*
 
 **Phase 1 – Graduate School Chat Dates** \
-*10/20/2025 – 11/20/2025*
+*10/20/2026 – 11/20/2026*
 
 **Phase 2 – Application Review** \
-*Dates: 10/20/2025 - Application Close* \
-Application Closes on 12/01/2025 for Ph.D. and 01/01/2026 for MS.
+*Dates: 10/20/2026 - Application Close* \
+Application Closes on 12/10/2026 for Ph.D. and 01/05/2027 for MS.
 
 ## Acknowledgements 
 
